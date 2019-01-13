@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTesting</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="post_submitted">Post submitted</string>
+    <string name="post_submit_error">Post submission error</string>
+</resources>
